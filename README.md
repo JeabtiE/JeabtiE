@@ -1,11 +1,11 @@
-## Hi there, I'm Nattapat Srirung👋
+### Hi there, I'm Nattapat Srirung👋
 
 ✨ "The wind is rising! We must try to live." - Paul Valery ✨
 
 ## 🧑‍💼 About Me
 
-🎓 A Computer Engineering student @ CMU
-🧭 Passionate about:
+- 🎓 A Computer Engineering student @ CMU
+- 🎱 Passionate about:
   - Web & Application Development
   - Game Development
   - AI / Machine Learning
@@ -15,6 +15,7 @@
 
 - 🏢 Business case competitions
 - 💸 Hackathon (Fintech, Edtech)
+- 💻 Building web & application projects
 
 ## 🛠 Creative Toolbox
 
@@ -33,11 +34,6 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Nattapat's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeabtiE&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeabtiE&layout=compact&hide_border=true)
 
 ## 🌐 Let's Connect
 
