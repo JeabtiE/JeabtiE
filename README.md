@@ -1,23 +1,23 @@
-### Hi there, I'm Nattapat Srirung👋
+## Hi there, I'm Nattapat Srirung👋
 
 ✨ "The wind is rising! We must try to live." - Paul Valery ✨
 
-## 🧑‍💼 About Me
+# 🧑‍💼 About Me
 
 - 🎓 A Computer Engineering student @ CMU
 - 🎱 Passionate about:
   - Web & Application Development
   - Game Development
   - AI / Machine Learning
-🌱 I like taking on a competition or hackathon whenever one comes up it's how I learn fastest.
+- 🌱 I like taking on a competition or hackathon whenever one comes up it's how I learn fastest.
 
-## 🚀 Currently Exploring
+# 🚀 Currently Exploring
 
 - 🏢 Business case competitions
 - 💸 Hackathon (Fintech, Edtech)
 - 💻 Building web & application projects
 
-## 🛠 Creative Toolbox
+# 🛠 Creative Toolbox
 
 **Languages & Frameworks**
 
