@@ -4,13 +4,13 @@
 
 ## 🧑‍💼 About Me
 
-- 🎓 A Computer Engineering student @ CMU
+- 🎓 A **Computer Engineering** student **@ CMU**
 - 🎱 Passionate about:
   - Web & Application Development
   - Game Development
   - AI / Machine Learning
   - Data analysis
-- 🌱 I like joining various competitions because being able to apply my skills in different fields and communicate with people in different industries is something I enjoy.
+- 🌱 I like joining various competitions because being able to apply my skills in different fields and **communicate with people** in different industries is something **I enjoy**.
 
 ## 🚀 Currently Exploring
 
