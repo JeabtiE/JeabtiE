@@ -1,4 +1,4 @@
-# Hi there, I'm Nattapat Srirung👋
+# Hi there, I'm Nattapat Srirung 👋
 
 ✨ **"The wind is rising! We must try to live."** - Paul Valery ✨
 
