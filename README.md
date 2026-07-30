@@ -10,7 +10,7 @@
 ## 🚀 Currently Exploring
 
 - 🏢 Business case competitions
-- 🎱 Hackathon competitions (Fintech, Edtech)
+- 🎱 Hackathon competitions
 - 💻 Building projects
 
 ## 👇 Connect me
