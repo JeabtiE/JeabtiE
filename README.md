@@ -5,7 +5,7 @@
 ## 🧑🏻‍💼 About Me
 
 - 🎓 A **Computer Engineering** student **@ CMU**
-- 🌱 I like joining various competitions because being able to apply my skills in different fields and **communicate with people** in different industries is something **I enjoy**.
+- 🌱 Joining a **competition** and **communicate with people** in various industries are something **I enjoy**.
 
 ## 🚀 Currently Exploring
 
